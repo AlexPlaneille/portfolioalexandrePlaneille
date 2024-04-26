@@ -35,7 +35,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "bootstrap/dist/css/bootstrap.css"
+
             ],
             "scripts": [],
             "server": "src/main.server.ts",
@@ -106,5 +108,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "45d7d0b7-8547-4d6b-999b-97713a117739"
   }
 }
